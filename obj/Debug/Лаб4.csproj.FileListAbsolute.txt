@@ -1,0 +1,16 @@
+C:\Users\Khome\Desktop\КПІ\2 курс\1 семестр\Об'єктно-орієнтоване програмування\Лаб\Лаб1\OOP\Лаб4\Лаб4\bin\Debug\Лаб4.exe.config
+C:\Users\Khome\Desktop\КПІ\2 курс\1 семестр\Об'єктно-орієнтоване програмування\Лаб\Лаб1\OOP\Лаб4\Лаб4\bin\Debug\Лаб4.exe
+C:\Users\Khome\Desktop\КПІ\2 курс\1 семестр\Об'єктно-орієнтоване програмування\Лаб\Лаб1\OOP\Лаб4\Лаб4\bin\Debug\Лаб4.pdb
+C:\Users\Khome\Desktop\КПІ\2 курс\1 семестр\Об'єктно-орієнтоване програмування\Лаб\Лаб1\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.csproj.AssemblyReference.cache
+C:\Users\Khome\Desktop\КПІ\2 курс\1 семестр\Об'єктно-орієнтоване програмування\Лаб\Лаб1\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.csproj.CoreCompileInputs.cache
+C:\Users\Khome\Desktop\КПІ\2 курс\1 семестр\Об'єктно-орієнтоване програмування\Лаб\Лаб1\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.exe
+C:\Users\Khome\Desktop\КПІ\2 курс\1 семестр\Об'єктно-орієнтоване програмування\Лаб\Лаб1\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.pdb
+C:\Users\Khome\Desktop\Архив\OOP\Лаб4\Лаб4\bin\Debug\Лаб4.exe.config
+C:\Users\Khome\Desktop\Архив\OOP\Лаб4\Лаб4\bin\Debug\Лаб4.exe
+C:\Users\Khome\Desktop\Архив\OOP\Лаб4\Лаб4\bin\Debug\Лаб4.pdb
+C:\Users\Khome\Desktop\Архив\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.csproj.AssemblyReference.cache
+C:\Users\Khome\Desktop\Архив\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.csproj.CoreCompileInputs.cache
+C:\Users\Khome\Desktop\Архив\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.exe
+C:\Users\Khome\Desktop\Архив\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.pdb
+C:\Users\Максим\Desktop\Нова папка\Lab4OOP\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.exe
+C:\Users\Максим\Desktop\Нова папка\Lab4OOP\OOP\Лаб4\Лаб4\obj\Debug\Лаб4.pdb
